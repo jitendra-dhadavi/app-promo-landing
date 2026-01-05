@@ -6,7 +6,7 @@ Designed to showcase Android & iOS apps with a clean UI, glassmorphism effects, 
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-username.github.io/bootstrap5-app-landing/
+🔗 https://jitendra-dhadavi.github.io/app-promo-landing/
 
 ---
 
